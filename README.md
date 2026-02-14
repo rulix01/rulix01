@@ -6,5 +6,5 @@
 - 📫 How to reach me: I_like_arm64_assembly on TikTok
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm 13 y.o
-- skills: ARM64 assembly, C, Shell Script, PowerPC assembly
+- ✨ Skills: ARM64 assembly, C, Shell Script, PowerPC assembly
 ---
