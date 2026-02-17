@@ -20,4 +20,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rulix01&theme=redical)
 
+![Streak](https://streak-stats.demolab.com?user=rulix01&theme=tokyonight)
+
 ---
